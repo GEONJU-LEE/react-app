@@ -1,4 +1,5 @@
 {
+  "homepage": "https://lgj-skt.github.io/react-app",
   "name": "gj-app",
   "version": "0.1.0",
   "private": true,
@@ -38,6 +39,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://lgj-skt.github.io/react-app"
+  }
+  
 }
